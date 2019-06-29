@@ -1,0 +1,31 @@
+.body {
+    margin: 0 auto;
+}
+
+#jumbotron {
+    background: maroon ;
+    text-align: center;
+    border-style: double;
+    
+}
+
+.head {
+    font-size: 75px;
+    color: floralwhite;
+    font-family: 'Rubik Mono One', sans-serif;
+    
+}
+
+#buttons {
+    margin: 50px;
+    font-family: 'Rubik Mono One', sans-serif;
+    color: floralwhite;
+    
+}
+
+
+
+
+
+
+
