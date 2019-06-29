@@ -1,25 +1,23 @@
 .body {
     margin: 0 auto;
-}
+    background: whitesmoke;
 
-#jumbotron {
-    background: maroon ;
-    text-align: center;
-    border-style: double;
     
 }
 
 .head {
     font-size: 75px;
-    color: floralwhite;
+    color: whitesmoke;
     font-family: 'Rubik Mono One', sans-serif;
     
 }
 
+    
+
 #buttons {
     margin: 50px;
     font-family: 'Rubik Mono One', sans-serif;
-    color: floralwhite;
+    padding: 20px;
     
 }
 
